@@ -82,13 +82,13 @@ All the resources listed are community-driven: we cannot offer support but sugge
 
 ## Coding Agent Management
 
-* [captain-miao (⭐0)](https://github.com/hyperlogue/captain-miao) TUI to monitor and organize multiple AI coding sessions in zellij, through `zellij action`.
 * [showy-quota (⭐15)](https://github.com/enieuwy/showy-quota) a standalone WASM status bar plugin showing live AI coding-plan quotas (Codex, Claude, Copilot, Gemini…), driven by CodexBar
 * [opencode-zellij-namer (⭐65)](https://github.com/24601/opencode-zellij-namer) AI-powered dynamic session naming for [OpenCode](https://opencode.ai), automatically renames sessions based on project context
 * [zellaude (⭐105)](https://github.com/ishefi/zellaude) a status bar plugin that shows Claude Code activity indicators on tabs
+* [zellij-ai-session](https://github.com/snail-vs/zellij-ai-session) - Find, search and resume AI coding sessions (Codex, Claude Code, OpenCode etc.) by project directly inside Zellij.
+* [zellij-ai-stats](https://github.com/ericviana/zellij-ai-stats) a themed powerline bar showing weekly quota usage and reset times for Claude Code and Codex, plus how many agent sessions are running
 * [zj-agents (⭐2)](https://github.com/kaankoken/zj-agents) background engine + floating sidebar: classify coding-agent panes (Idle/Working/Blocked/Done) from process + viewport manifests, desktop notifications; Claude, Codex, Grok, Pi, OMP
 * [zj-agent-mob](https://github.com/mohseenrm/zj-agent-mob) a floating panel tracking Claude Code and Codex agents across every session: live status, current task, jump-to-pane across sessions, approve/reject permission prompts, and kill runaways
-* [zellij-ai-stats](https://github.com/ericviana/zellij-ai-stats) a themed powerline bar showing weekly quota usage and reset times for Claude Code and Codex, plus how many agent sessions are running
 * [zj-radar (⭐18)](https://github.com/marktoda/zj-radar) a pinned sidebar showing which AI agents (Claude Code, Codex) are working, done, or waiting for you across all tabs, with click-to-jump
 
 ## External Tools
